@@ -9,7 +9,7 @@ Installation
 You can use either Bower or NPM
 
 ```
-npm install git:lski/es6-promise-done --save
+npm install github:lski/es6-promise-done --save
 // or
 bower install https://github.com/lski/es6-promise-done.git --save
 ```
