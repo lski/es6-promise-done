@@ -1,0 +1,24 @@
+{
+  "name": "es6-promise-done",
+  "version": "1.0.0",
+  "description": "Simply adds the 'done' function the basic Promises/A+ spec",
+  "main": "es6-promise-done.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lski/es6-promise-done.git"
+  },
+  "keywords": [
+    "promise",
+    "es6",
+    "done"
+  ],
+  "author": "Lee Cooper <lee.cooper@lski.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lski/es6-promise-done/issues"
+  },
+  "homepage": "https://github.com/lski/es6-promise-done#readme"
+}

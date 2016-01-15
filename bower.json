@@ -1,0 +1,23 @@
+{
+  "name": "es6-promise-done",
+  "description": "Simply adds the 'done' function the basic Promises/A+ spec",
+  "main": "es6-promise-done.js",
+  "authors": [
+    "Lee Cooper <lee.cooper@lski.uk>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "promise",
+    "es6",
+    "done"
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/lski/es6-promise-done",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
